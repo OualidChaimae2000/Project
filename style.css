@@ -1,0 +1,11 @@
+body    {
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color:lightgrey;
+    }
+h1      {
+    color: blue;
+    text-align: center;
+    font-size:400%;
+}
